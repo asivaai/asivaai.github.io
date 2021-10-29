@@ -29,13 +29,13 @@ The software is freely available at [GitHub/ASIVA_Web](https://github.com/asivaa
 ## ASIVA Team
 
 ### Contributors:
-1. [Parvej Saleh](https://linkedin.com/in/parvejsaleh/)
-2. [Tanveer Singh](https://linkedin.com/in/tanveer-singh-250b02194/)
-3. [Debasish Hazarika](https://linkedin.com/in/hazarikadebasish/)
+1. [Parvej Saleh](https://linkedin.com/in/parvejsaleh/), PhD (pursuing), Observational Astronomy
+2. [Tanveer Singh](https://linkedin.com/in/tanveer-singh-250b02194/), BTech, Information Technology
+3. [Debasish Hazarika](https://linkedin.com/in/hazarikadebasish/), PhD (pursuing), Observational Astronomy
 
 ### Developers:
-1. [Surabhi Rajkumari](https://www.linkedin.com/in/surabhi-rajkumari-789b681a7)
-2. [Saurabh Rajkumar](https://www.linkedin.com/in/saurabh-rajkumar-5401611b2/)
+1. [Surabhi Rajkumari](https://www.linkedin.com/in/surabhi-rajkumari-789b681a7), Frontend Developer
+2. [Saurabh Rajkumar](https://www.linkedin.com/in/saurabh-rajkumar-5401611b2/), Backend Developer
 
 ### Mentor:
 [Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/), Associate Proffessor, Department of Applied Sciences
