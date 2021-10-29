@@ -1,6 +1,6 @@
 ## ASIVA 1.6
 
-ASIVA is a public and user-friendly astronomical data analysis platform. The platform helps astronomers, data enthusiast and statisticians to explore the complete process of astronomical & time series analysis at one place. The data analysis process is organized into 6 parts, starting from data preprocessing to predicting class of variables. 
+AstroStatistics In Variable Astronomy (ASIVA) is a public and user-friendly astronomical data analysis platform. The platform helps astronomers, data enthusiast and statisticians to explore the complete process of astronomical & time series analysis at one place. The data analysis process is organized into 6 parts, starting from data preprocessing to predicting class of variables. 
 
 Below are the details:
 1. Data Processing: Detect & handle missing values with standard methods. Shows basic statistical measures of input data.
