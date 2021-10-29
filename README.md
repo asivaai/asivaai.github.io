@@ -14,7 +14,6 @@ Below are the details:
 
 astropy, bqplot, gatspy, hurst, ipyfilechooser, ipywidgets, jupyterlab, matplotlib, numpy, pandas, seaborn, sklearn, statsmodels, tabulate, termcolor, tqdm, voila
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Citation
 Coming soon...
@@ -25,24 +24,24 @@ Coming soon...
 
 ### License
 
-The software is freely available at [GitHub/asiva_nb](https://github.com/asivaai/asiva_nb) for Web Application & [GitHub/asiva_qt](https://github.com/asivaai/asiva_qt) for Desktop Application under the MIT License."
+The software is freely available at [GitHub/ASIVA_Web](https://github.com/asivaai/asiva_nb) for Web Application & [GitHub/ASIVA](https://github.com/asivaai/asiva_qt) for Desktop Application under the MIT License."
 
-### ASIVA Team
+## ASIVA Team
 
-## Contributors:
+### Contributors:
 1. [Parvej Saleh](https://linkedin.com/in/parvejsaleh/)
 2. [Tanveer Singh](https://linkedin.com/in/tanveer-singh-250b02194/)
 3. [Debasish Hazarika](https://linkedin.com/in/hazarikadebasish/)
 
-## Developers:
+### Developers:
 1. [Surabhi Rajkumari](https://www.linkedin.com/in/surabhi-rajkumari-789b681a7)
 2. [Saurabh Rajkumar](https://www.linkedin.com/in/saurabh-rajkumar-5401611b2/)
 
-## Mentor:
-[Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/)
+### Mentor:
+[Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/), Associate Proffessor, Department of Applied Sciences
 
-## Institute:
-[Gauhati University](https://www.gauhati.ac.in/)
+### Institute:
+[Gauhati University](https://www.gauhati.ac.in/), Gopinath Bordoloi Nagar, Jalukbari, Guwahati, Assam 781014
 
-## Contact:
+### Contact:
 Please drop an email to [asivaai2021@gmail.com](mailto:asivaai2021@gmail.com)
