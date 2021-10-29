@@ -1,37 +1,48 @@
-## Welcome to ASIVA
+## ASIVA 1.6
 
-You can use the [editor on GitHub](https://github.com/asivaai/asivaai.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ASIVA is a public and user-friendly astronomical data analysis platform. The platform helps astronomers, data enthusiast and statisticians to explore the complete process of astronomical & time series analysis at one place. The data analysis process is organized into 6 parts, starting from data preprocessing to predicting class of variables. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below are the details:
+1. Data Processing: Detect & handle missing values with standard methods. Shows basic statistical measures of input data.
+2. Variable Detection: Detect variables from star ensemble. Perform differential photometry & generate light curves.
+3. Stationarity Test: Detect seasonality, outliers & transient events in time series. Detrend non-stationary time series.
+4. Period Detection: Perform periodogram analysis with LombScargle algorithm. Generate phased light curve with plots.
+5. Feature Extraction: Bulk extraction of ~50 features at one place. Ready-to-go features for classifying variables.
+6. Classify Variables: Predict type of variables using pre-built models. Load custom model to classify variables.
 
-### Markdown
+### Libraries Used
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+astropy, bqplot, gatspy, hurst, ipyfilechooser, ipywidgets, jupyterlab, matplotlib, numpy, pandas, seaborn, sklearn, statsmodels, tabulate, termcolor, tqdm, voila
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Citation
+Coming soon...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asivaai/asivaai.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Documentation
+Coming soon...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### License
+
+The software is freely available at [GitHub/asiva_nb](https://github.com/asivaai/asiva_nb) for Web Application & [GitHub/asiva_qt](https://github.com/asivaai/asiva_qt) for Desktop Application under the MIT License."
+
+### ASIVA Team
+
+## Contributors:
+1. [Parvej Saleh](https://linkedin.com/in/parvejsaleh/)
+2. [Tanveer Singh](https://linkedin.com/in/tanveer-singh-250b02194/)
+3. [Debasish Hazarika](https://linkedin.com/in/hazarikadebasish/)
+
+## Developers:
+1. [Surabhi Rajkumari](https://www.linkedin.com/in/surabhi-rajkumari-789b681a7)
+2. [Saurabh Rajkumar](https://www.linkedin.com/in/saurabh-rajkumar-5401611b2/)
+
+## Mentor:
+[Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/)
+
+## Institute:
+[Gauhati University](https://www.gauhati.ac.in/)
+
+## Contact:
+Please drop an email to [asivaai2021@gmail.com](mailto:asivaai2021@gmail.com)
