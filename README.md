@@ -12,19 +12,19 @@ Below are the details:
 
 ## Installation
 
-## For any OS via pip
+### For any OS via pip
 pip install asiva
 
-## For any OS via docker
+### For any OS via docker
 pip install asiva
 
-## For Linux via snap
+### For Linux via snap
 Coming soon...
 
-## For Windows only
+### For Windows only
 Download the executable, double-click and follow the installation instructions
 
-## For Linux only
+### For Linux only
 Download the AppImage, double-click and follow the installation instructions
 
 
