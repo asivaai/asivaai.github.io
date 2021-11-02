@@ -13,7 +13,7 @@ Below are the details:
 ## Installation
 
 ### For any OS via pip [Web App]
-pip install asiva
+Coming soon...
 
 ### For any OS via docker [Web App]
 Coming soon...
