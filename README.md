@@ -12,19 +12,19 @@ Below are the details:
 
 ## Installation
 
-### For any OS via pip [Web App]
+#### For any OS via pip [Web App]
 pip install asiva
 
-### For any OS via docker [Web App]
+#### For any OS via docker [Web App]
 Coming soon...
 
-### For Linux via snap [Desktop App]
+#### For Linux via snap [Desktop App]
 Coming soon...
 
-### For Windows only [Desktop App]
+#### For Windows only [Desktop App]
 Download the executable, double-click and follow the installation instructions
 
-### For Linux only [Desktop App]
+#### For Linux only [Desktop App]
 Download the AppImage, double-click and follow the installation instructions
 
 
