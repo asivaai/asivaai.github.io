@@ -10,6 +10,24 @@ Below are the details:
 5. Feature Extraction: Bulk extraction of ~50 features at one place. Ready-to-go features for classifying variables.
 6. Classify Variables: Predict type of variables using pre-built models. Load custom model to classify variables.
 
+## Installation
+
+## For any OS via pip
+pip install asiva
+
+## For any OS via docker
+pip install asiva
+
+## For Linux via snap
+Coming soon...
+
+## For Windows only
+Download the executable, double-click and follow the installation instructions
+
+## For Linux only
+Download the AppImage, double-click and follow the installation instructions
+
+
 ### Libraries Used
 
 astropy, bqplot, gatspy, hurst, ipyfilechooser, ipywidgets, jupyterlab, matplotlib, numpy, pandas, seaborn, sklearn, statsmodels, tabulate, termcolor, tqdm, voila
