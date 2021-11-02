@@ -12,35 +12,35 @@ Below are the details:
 
 ## Installation
 
-#### For any OS via pip [Web App]
+### For any OS via pip [Web App]
 pip install asiva
 
-#### For any OS via docker [Web App]
+### For any OS via docker [Web App]
 Coming soon...
 
-#### For Linux via snap [Desktop App]
+### For Linux via snap [Desktop App]
 Coming soon...
 
-#### For Windows only [Desktop App]
+### For Windows only [Desktop App]
 Download the executable, double-click and follow the installation instructions
 
-#### For Linux only [Desktop App]
+### For Linux only [Desktop App]
 Download the AppImage, double-click and follow the installation instructions
 
 
-### Libraries Used
+## Libraries Used
 
 astropy, bqplot, gatspy, hurst, ipyfilechooser, ipywidgets, jupyterlab, matplotlib, numpy, pandas, seaborn, sklearn, statsmodels, tabulate, termcolor, tqdm, voila
 
 
-### Citation
+## Citation
 Coming soon...
 
 
-### Documentation
+## Documentation
 Coming soon...
 
-### License
+## License
 
 The software is freely available at [GitHub/ASIVA_Web](https://github.com/asivaai/asiva_nb) for Web Application & [GitHub/ASIVA](https://github.com/asivaai/asiva_qt) for Desktop Application under the MIT License."
 
