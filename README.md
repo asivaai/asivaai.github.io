@@ -56,7 +56,8 @@ The software is freely available at [GitHub/ASIVA_Web](https://github.com/asivaa
 2. [Saurabh Rajkumar](https://www.linkedin.com/in/saurabh-rajkumar-5401611b2/), Backend Developer
 
 ### Mentor:
-[Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/), Associate Professor, Department of Applied Sciences
+1. [Dr. Padmakar Singh Parihar](https://www.iiap.res.in/user/57), Professor, IIA, Bengaluru
+2. [Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/), Assoc. Prof., Gauhati University
 
 ### Institute:
 [Gauhati University](https://www.gauhati.ac.in/), Gopinath Bordoloi Nagar, Jalukbari, Guwahati, Assam 781014
