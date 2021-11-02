@@ -60,9 +60,9 @@ The software is freely available at [GitHub/ASIVA_Web](https://github.com/asivaa
 2. [Dr. Eeshankur Saikia](https://linkedin.com/in/eeshankur-saikia-81193284/), Assoc. Prof., Gauhati University
 
 ### Institute:
-[Gauhati University](https://www.gauhati.ac.in/), Gopinath Bordoloi Nagar, Jalukbari, Guwahati, Assam 781014
-[Indian Institute of Astrophysics](https://www.iiap.res.in/), 2nd Block, 100 Feet Rd, Koramangala, Bengaluru, Karnataka 560034
-[Indian Astronomical Observatory](https://www.iiap.res.in/?q=iao.htm), QXH8+G2W, Leh-Ladakh, 194101
+1. [Gauhati University](https://www.gauhati.ac.in/), Gopinath Bordoloi Nagar, Jalukbari, Guwahati, Assam 781014
+2. [Indian Institute of Astrophysics](https://www.iiap.res.in/), 2nd Block, 100 Feet Rd, Koramangala, Bengaluru, Karnataka 560034
+3. [Indian Astronomical Observatory](https://www.iiap.res.in/?q=iao.htm), QXH8+G2W, Leh-Ladakh, 194101
 
 ### Contact:
 Please drop an email to [asivaai2021@gmail.com](mailto:asivaai2021@gmail.com)
