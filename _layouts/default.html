@@ -12,6 +12,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <script async defer src="https://buttons.github.io/buttons.js"></script>
+    
+    <style>
+      .left_img{
+        float: left}
+      .right_img{
+        float: right}
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -31,8 +38,13 @@
 
     <main id="content" class="main-content" role="main">
       <img src="asiva_img.png" width="1000" height="400">
-      <div>
-      <img src="asiva_img.png" width="500" height="400"><img src="asiva_img.png" width="500" height="400">
+      <div class="image">
+        <div class="left_img">
+          <img src="asiva_img.png" width="500" height="400">
+        </div>
+        <div class="right_img">
+          <img src="asiva_img.png" width="500" height="400">
+        </div>
       </div>
       {{ content }}
 
