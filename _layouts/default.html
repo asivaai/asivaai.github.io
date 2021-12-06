@@ -20,7 +20,9 @@
        }
       .img_side_text{
         float: left}
-      
+      .box{
+        display: flex;
+        flex-shrink: 3}
     </style>
   </head>
   <body>
@@ -61,13 +63,13 @@
           <img src="asiva_img.png" width="500" height="400">
           <img src="asiva_img.png" width="500" height="400">
       </div>
-
+      <div class="box">
        <div class="img_side_text">
           <img src="asiva_img.png" width="500" height="400">
         </div>
       
       {{ content }}
-      
+      </div>
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
