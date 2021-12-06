@@ -19,9 +19,9 @@
         flex-direction: row;
        }
       .img_side_text{
-        display: flex;
-        flex-direction: row;
-        flex-shrink: 1}
+        float: left}
+      .text{
+        float: right}
     </style>
   </head>
   <body>
@@ -62,10 +62,10 @@
           <img src="asiva_img.png" width="500" height="400">
         </div>
       </div>
-      <div class="text">
-        <div class="img_side_text">
+       <div class="img_side_text">
           <img src="asiva_img.png" width="500" height="400">
         </div>
+      <div class="text">
       {{ content }}
       </div>
 
